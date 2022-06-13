@@ -1,0 +1,56 @@
+---
+output:
+  xaringan::moon_reader:
+    css: ["styles.css", "ninjutsu"]
+    seal: false
+    lib_dir: libs
+    nature:
+      countIncrementalSlides: false
+      highlightStyle: github
+      highlightLines: true
+      highlightSpans: true
+      ratio: 16:9
+---
+
+```{r xaringan-extra-features, echo=FALSE}
+xaringanExtra::use_tile_view()
+xaringanExtra::use_search(show_icon = TRUE)
+xaringanExtra::use_clipboard()
+xaringanExtra::use_extra_styles(
+  hover_code_line = TRUE
+)
+```
+
+class: right, hide-count, title
+background-image: url(images/ibm_ramac.jpeg)
+background-position: bottom left
+background-size: 50%
+
+<br>
+<br>
+
+  ## `dbplyr` and the 
+  ## `tidy`-.red[SQL]-`verse` 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div align="right">
+  <small>Will Simmons</small> <br>
+  <small>WCM Biostatistics Computing Club</small> <br>
+  <small>June 23, 2022</small>
+</div>
+
+---
