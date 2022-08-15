@@ -54,3 +54,12 @@ background-size: 50%
 </div>
 
 ---
+
+.pull-right[
+  <img src="images/rlogo.svg" height=400px>
+]
+.pull-left[
+  <img src="images/sql_logo.png" max-height:400px>
+]
+
+---

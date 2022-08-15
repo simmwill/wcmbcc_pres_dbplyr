@@ -2,5 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
-
 .DS_Store
+notes.txt
+outline.txt
+images/*
+test_code.R
+index.Rmd
+index.html
